@@ -12,7 +12,33 @@ font-size: 1.8rem;
 }
 
 body {
+    font-family: 'Times New Roman', Times, serif;
 text-align: center;
 color: deepskyblue;
+
+}
+
+.Container {
+
+    width: 80%;
+    padding: 1rem;
+    text-align:justify;
+    border:solid  rgb(204, 34, 34);
+    margin: auto;
+
+}
+
+.titulo
+{
+    font-size: 1.6rem;
+    color: yellowgreen;
+    font-family: cursive;
+
+
+}
+
+.cabezera {
+    border border-radius: 5px;
+    background-color: tomato;
 
 }
